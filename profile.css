@@ -1,0 +1,65 @@
+body{
+    margin:auto;
+    background-color: rgb(178 190 229);
+}
+
+a{
+    text-decoration: none;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    border:2px  solid red; 
+    background-color:#3b2632;
+    text-align:center
+
+}
+#name{
+   background-color: rgb(190, 216, 150);
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#image{
+    width: 100%;
+    height: 50%;
+    margin: -17px;
+    padding: 20px;
+}
+#about{
+    margin-top: 5px;
+    background-color: rgb(190, 216, 150);
+     font-size: 18px;
+     font-family:Georgia, 'Times New Roman', Times, serif
+ }
+ #para{
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif 
+ }
+ #skill{
+    margin-top: 5px;
+    background-color: rgb(190, 216, 150);
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+ }
+ #images{
+    height: 50%;
+    width: 30%;
+ }
+ #loaction{
+    margin-top: 5px;
+    background-color: rgb(190, 216, 150);
+
+ }
+ #map{
+    height: 30%;
+    width: 40%;
+ }
+ #links{
+    margin-top: 5px;
+    background-color: rgb(190, 216, 150);
+ }
+#sociallinks > img{
+    height: 10%;
+    width: 10%;
+    
+}
